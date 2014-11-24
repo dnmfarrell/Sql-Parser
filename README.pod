@@ -1,0 +1,5 @@
+=head1 Sql::Parser
+
+This is an experiment at writing a simple grammar for parsing ANSI SQL.
+
+=cut
